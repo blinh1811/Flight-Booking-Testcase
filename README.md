@@ -31,5 +31,5 @@ File Excel `Trương Ngọc Bảo Linh_Mua vé máy bay.xlsx` bao gồm:
 ## Liên hệ
 
 Tác giả: Trương Ngọc Bảo Linh  
-Email: *(Thêm email nếu muốn)*
+Email: truongngocbaolinh1811@gmail.com
 
